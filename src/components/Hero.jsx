@@ -63,7 +63,7 @@ function HeroSplit() {
           </div>
           <div style={{ position: 'relative', aspectRatio: '4/5', background: 'var(--cream)', overflow: 'hidden' }}>
             <img
-              src="/images/hero.png"
+              src={`${import.meta.env.BASE_URL}images/hero.png`}
               alt="Impresora 3D"
               style={{ width: '100%', height: '100%', objectFit: 'cover', filter: 'contrast(1.05)' }}
               onError={e => { e.target.style.display = 'none'; }}
