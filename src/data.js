@@ -10,10 +10,10 @@ export const materials = [
 ];
 
 export const shop = [
-  { name: 'Lámpara geométrica', tech: '3D / PLA', price: '$45.000', badge: 'Nuevo', img: 'https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=700&q=80&auto=format&fit=crop' },
-  { name: 'Llavero personalizado', tech: 'Láser diodo', price: '$12.000', badge: 'Personaliza', img: 'https://images.unsplash.com/photo-1606293459744-e6b9b7a2b9b8?w=700&q=80&auto=format&fit=crop' },
-  { name: 'Caja de madera grabada', tech: 'Láser CO₂', price: '$38.000', badge: 'Hecho aquí', img: 'https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=700&q=80&auto=format&fit=crop' },
-  { name: 'Miniatura en resina', tech: 'SLA', price: '$28.000', badge: 'Detalle fino', img: 'https://images.unsplash.com/photo-1559762717-99c81ac85459?w=700&q=80&auto=format&fit=crop' },
+  { name: 'Lápicero Triple División', tech: '3D / PLA', price: '$3.990', badge: 'Nuevo', img: 'https://cdnx.jumpseller.com/stratix-labs/image/76514532/thumb/1440/2161?1778532117' },
+  { name: 'Soporte de Notebook', tech: '3D / PLA', price: '$4.990', badge: 'Armables', img: 'https://cdnx.jumpseller.com/stratix-labs/image/76514614/thumb/1440/2161?1778532214' },
+  { name: 'Soporte de Audífonos', tech: '3D / PLA', price: '$7.990', badge: 'Finos Detalles', img: 'https://cdnx.jumpseller.com/stratix-labs/image/76514784/thumb/1440/2161?1778532512' },
+  { name: 'Dispensador de Toallas', tech: '3D / PLA +', price: '$4.990', badge: 'Material Resistente', img: 'https://cdnx.jumpseller.com/stratix-labs/image/76606352/thumb/1440/2160?1778709456' },
 ];
 
 export const igTiles = [

@@ -16,11 +16,11 @@ export default function Tienda() {
               Una selección curada de piezas fabricadas en nuestro taller. Decoración, accesorios y regalos — todos salidos de nuestras propias máquinas.
             </p>
           </div>
-          <a href="#catalogo" className="btn btn--ghost" style={{ color: 'var(--teal)', borderColor: 'var(--teal)' }}>
+          <a href="https://store.stratixlabs.cl/productos" target='__blank' className="btn btn--ghost" style={{ color: 'var(--teal)', borderColor: 'var(--teal)' }}>
             Ver catálogo completo<ArrowIcon />
           </a>
         </div>
-{/**         <div id="shop-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 24 }}>
+        <div id="shop-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 24 }}>
           {shop.map(p => (
             <div className="shop-card" key={p.name}>
               <div className="shop-card__media">
@@ -36,15 +36,8 @@ export default function Tienda() {
               </div>
             </div>
           ))}
-        </div> */}
+        </div> 
 
-        <div style={{ marginTop: 40, padding: 24, background: 'var(--cream)', display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 24, flexWrap: 'wrap' }}>
-          <div style={{ display: 'flex', gap: 16, alignItems: 'center' }}>
-            <div style={{ fontFamily: 'var(--font-mono)', fontSize: 11, letterSpacing: '0.1em', textTransform: 'uppercase', color: 'var(--orange)', padding: '6px 10px', border: '1px solid var(--orange)' }}>◆ Pronto online</div>
-            <span style={{ fontSize: 14, color: 'var(--ink-60)' }}>La tienda completa estará disponible en las próximas semanas. Mientras tanto escríbenos para reservas y encargos.</span>
-          </div>
-          <a href="#contacto" style={{ fontFamily: 'var(--font-mono)', fontSize: 12, letterSpacing: '0.08em', textTransform: 'uppercase', fontWeight: 600, color: 'var(--teal)' }}>Avísame cuando abra →</a>
-        </div>
       </div>
     </section>
   );

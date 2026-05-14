@@ -10,7 +10,7 @@ export default function CtaBand() {
             <span className="italic-serif" style={{ opacity: 0.85 }}>Vamos a fabricarla.</span>
           </h2>
         </div>
-        <a href="#contacto" className="btn" style={{ background: 'var(--teal)', color: 'var(--white)', padding: '24px 32px', fontSize: 14 }}>
+        <a href="mailto:hola@stratixlabs.cl" className="btn" style={{ background: 'var(--teal)', color: 'var(--white)', padding: '24px 32px', fontSize: 14 }}>
           Hablemos<ArrowIcon />
         </a>
       </div>

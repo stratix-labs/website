@@ -66,10 +66,7 @@ export default function Servicios() {
         </div>
 
         <div style={{ marginTop: 48, display: 'flex', gap: 16, flexWrap: 'wrap' }}>
-          <a href="#catalogo" className="btn btn--primary">
-            Ver catálogo completo<ArrowIcon />
-          </a>
-          <a href="#contacto" className="btn btn--ghost">Cotizar un proyecto</a>
+          <a href="mailto:hola@stratixlabs.cl" className="btn btn--ghost">Cotizar un proyecto</a>
         </div>
       </div>
     </section>

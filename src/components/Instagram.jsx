@@ -21,7 +21,7 @@ export default function Instagram() {
               <span className="italic-serif" style={{ color: 'var(--orange)' }}>del taller.</span>
             </h2>
           </div>
-          <a href="https://instagram.com/" className="btn btn--ghost" style={{ color: 'var(--teal)', borderColor: 'var(--teal)' }}>
+          <a href="https://instagram.com/stratixlabs" className="btn btn--ghost" style={{ color: 'var(--teal)', borderColor: 'var(--teal)' }}>
             <InstagramIcon />
             Seguir en Instagram
           </a>

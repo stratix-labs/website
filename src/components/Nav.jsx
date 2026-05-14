@@ -60,7 +60,7 @@ export default function Nav({ state }) {
         <a href="#trabajos">Trabajos</a>
         <a href="#contacto">Contacto</a>
       </div>
-      <a href="#tienda" className="nav__cta">
+      <a href="https://store.stratixlabs.cl" className="nav__cta">
         Ver tienda
         <ArrowIcon />
       </a>

@@ -19,7 +19,7 @@ function HeroType() {
             Estudio de fabricación digital con tres tecnologías bajo un mismo techo: impresión 3D (filamento y resina) y grabado láser CO₂ y diodo. Ofrecemos servicios a medida <strong>y</strong> una tienda con piezas hechas aquí mismo.
           </p>
           <div className="hero-cta" style={{ display: 'flex', gap: 12, flexWrap: 'wrap', justifyContent: 'flex-end' }}>
-            <a href="#tienda" className="btn btn--primary">Ver la tienda<ArrowIcon /></a>
+            <a href="https://store.stratixlabs.cl" className="btn btn--primary">Ver la tienda<ArrowIcon /></a>
             <a href="#servicios" className="btn btn--ghost" style={{ color: 'var(--teal)', borderColor: 'var(--teal)' }}>Nuestros servicios</a>
           </div>
         </div>
@@ -44,7 +44,7 @@ function HeroSplit() {
               Impresión 3D y grabado láser. Servicios a medida y una <strong>tienda</strong> con piezas fabricadas aquí mismo — desde decoración hasta regalos corporativos.
             </p>
             <div style={{ marginTop: 40, display: 'flex', gap: 12, flexWrap: 'wrap' }}>
-              <a href="#tienda" className="btn btn--primary">Ver la tienda<ArrowIcon /></a>
+              <a href="https://store.stratixlabs.cl" className="btn btn--primary">Ver la tienda<ArrowIcon /></a>
               <a href="#servicios" className="btn btn--ghost" style={{ color: 'var(--teal)', borderColor: 'var(--teal)' }}>Servicios</a>
             </div>
             <div style={{ marginTop: 64, display: 'flex', gap: 32, flexWrap: 'wrap' }}>
@@ -97,7 +97,7 @@ function HeroBold() {
             Estudio de fabricación digital donde tu archivo se vuelve objeto. Servicios a medida en impresión 3D y láser <strong>+ tienda</strong> con piezas hechas aquí mismo.
           </p>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 10, alignItems: 'stretch' }}>
-            <a href="#tienda" className="btn btn--primary" style={{ justifyContent: 'space-between' }}>Ver la tienda<ArrowIcon /></a>
+            <a href="https://store.stratixlabs.cl" className="btn btn--primary" style={{ justifyContent: 'space-between' }}>Ver la tienda<ArrowIcon /></a>
             <a href="#servicios" className="btn btn--ghost" style={{ justifyContent: 'space-between' }}>Servicios<ArrowIcon /></a>
           </div>
         </div>

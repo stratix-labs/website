@@ -21,16 +21,16 @@ export default function Footer() {
               <li><a href="#">Impresión 3D Resina</a></li>
               <li><a href="#">Corte y Grabado láser CO₂</a></li>
               <li><a href="#">Corte y Grabado láser diodo</a></li>
+              <li><a href="#">Grabado láser fibra</a></li>
             </ul>
           </div>
 
           <div className="footer__col">
             <h5>Tienda</h5>
             <ul>
-              <li><a href="#">Novedades</a></li>
-              <li><a href="#">Decoración</a></li>
-              <li><a href="#">Regalos</a></li>
-              <li><a href="#">Personalizables</a></li>
+              <li><a href="https://store.stratixlabs.cl/" target='__blank'>Destacados</a></li>
+              <li><a href="https://store.stratixlabs.cl/" target='__blank'>Recién Llegados</a></li>
+              <li><a href="https://store.stratixlabs.cl/" target='__blank'>Regalos</a></li>
             </ul>
           </div>
 
